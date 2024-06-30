@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.guy.class24b_andb_2.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-24T13:14:34" hostname="LAPTOP-KU8LBL9G" time="0.006">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="com.guy.class24b_andb_2.ExampleUnitTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

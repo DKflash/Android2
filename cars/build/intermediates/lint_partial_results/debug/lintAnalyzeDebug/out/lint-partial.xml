@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.5.0" type="partial_results">
+    <map id="UnusedResources">
+        <location id="R.color.black"
+            file="${:cars*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="3"
+            column="12"
+            startOffset="64"
+            endLine="3"
+            endColumn="24"
+            endOffset="76"/>
+        <location id="R.color.white"
+            file="${:cars*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="4"
+            column="12"
+            startOffset="107"
+            endLine="4"
+            endColumn="24"
+            endOffset="119"/>
+        <location id="R.drawable.img_icon"
+            file="${:cars*debug*MAIN*sourceProvider*0*resDir*0}/drawable/img_icon.png"/>
+        <location id="R.string.title"
+            file="${:cars*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="3"
+            column="13"
+            startOffset="75"
+            endLine="3"
+            endColumn="25"
+            endOffset="87"/>
+        <entry
+            name="model"
+            string="color[black(D),white(D)],drawable[img_icon(D),ic_launcher_background(R)],mipmap[ic_launcher(U),ic_launcher_round(U),ic_launcher_foreground(U)],string[app_name(U),title(D)],style[Theme_Class24BAndb2(U),Base_Theme_Class24BAndb2(U),Theme_Material3_DayNight_NoActionBar(R)],xml[data_extraction_rules(U),backup_rules(U)];4^3^6,5^3^6,9^a,a^b;;;"/>
+    </map>
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.guy.class24b_andb_2.Activity_Panel"
+                    boolean="true"/>
+            </map>
+    </map>
+
+</incidents>

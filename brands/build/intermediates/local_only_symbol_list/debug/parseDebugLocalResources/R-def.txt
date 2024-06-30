@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color background_color
+color black
+color button_buy
+color button_sell
+color card_background_color
+color green
+color red
+color text_color
+color topbar_color
+color white
+drawable ic_launcher_background
+drawable ic_logo
+drawable img_icon
+drawable profile_icon
+id currentPriceText
+id priceCard
+id profile_image
+id profile_name
+id recyclerView
+id topbar
+id tradeButton
+id tradesLabel
+layout activity_trader_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string title
+style Base.Theme.Class24BAndb2
+style Theme.Class24BAndb2

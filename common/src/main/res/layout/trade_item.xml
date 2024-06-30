@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="8dp"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/symbolText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Currency: BTCUSDT"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/entryPriceText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bought at: "
+            android:textSize="16sp"
+            android:textColor="@color/text_color" />
+
+        <TextView
+            android:id="@+id/exitPriceText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sold at: "
+            android:textSize="16sp"
+            android:textColor="@color/text_color" />
+
+        <TextView
+            android:id="@+id/profitText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Profit: "
+            android:textSize="16sp"
+            android:textColor="@color/text_color" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
