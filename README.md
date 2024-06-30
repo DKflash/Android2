@@ -5,13 +5,10 @@ This project is an Android application designed for both customers and traders. 
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Architecture](#architecture)
 - [Setup](#setup)
 - [Usage](#usage)
 - [APIs Used](#apis-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
